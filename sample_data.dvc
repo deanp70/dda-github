@@ -1,0 +1,5 @@
+outs:
+    - md5: fd9eb5371402786c1112ee651fa14a83.dir
+      size: 56823521
+      path: sample_data
+      nfiles: 6
